@@ -1,23 +1,6 @@
 # Changelog
 
-## [4.3.2] - 2026-07-20
-
-### Added
-- GitHub-ready legal, privacy, security, citation, trademark, and third-party attribution files.
-- Local copies of direct dependency license texts.
-- Clear disclosure of online speech processing through `edge-tts`.
-
-### Changed
-- Updated package metadata to 4.3.2.
-- Added `edge-tts` to `pyproject.toml` dependencies.
-- Removed generated cache files.
-
-## [4.3.1] - 2026-07-20
-- Fixed accidental Streamlit `DeltaGenerator` rendering.
-
-## [4.3.0] - 2026-07-20
-- Improved Chinese and Japanese punctuation segmentation.
-- Added British and American English voice selection.
+- Live deployment: https://syllisten.streamlit.app
 
 ## 4.3.3 — 2026-07-20
 
