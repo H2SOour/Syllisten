@@ -8,6 +8,8 @@ authors:
 version: "4.3.3"
 date-released: "2026-07-20"
 license: MIT
+repository-code: "https://github.com/H2SOour/Syllisten"
+url: "https://syllisten.streamlit.app"
 keywords:
   - language learning
   - listening practice
