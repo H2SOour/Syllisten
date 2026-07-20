@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use or reference Syllisten, please cite this software."
+title: "Syllisten: Multilingual Focused-Listening and Dictation Web App"
+type: software
+authors:
+  - family-names: "Liu"
+    given-names: "Siyuan"
+version: "4.3.3"
+date-released: "2026-07-20"
+license: MIT
+keywords:
+  - language learning
+  - listening practice
+  - dictation
+  - text-to-speech
+  - Streamlit
+  - multilingual
+abstract: >-
+  Syllisten is a multilingual web application for focused listening and
+  dictation practice in Chinese, Japanese, English, Spanish, and French.

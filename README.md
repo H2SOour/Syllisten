@@ -54,7 +54,10 @@ If the project's owner later wishes to prohibit commercial reuse of the code its
 
 ## Legal and policy documents
 
+- [DEPLOYMENT.md](DEPLOYMENT.md)
 - [DATA_FLOW.md](DATA_FLOW.md)
+- [RELEASE_CHECKLIST.md](RELEASE_CHECKLIST.md)
+
 - [LICENSE](LICENSE)
 - [NOTICE](NOTICE)
 - [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)
