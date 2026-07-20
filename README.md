@@ -43,6 +43,10 @@ python -m streamlit run app.py
 
 Open `http://localhost:8501` if the browser does not open automatically.
 
+## links
+- Live app: https://syllisten.streamlit.app
+- Source code: https://github.com/H2SOour/Syllisten
+
 ## AI mode and API keys
 
 Syllisten does not include or read a developer OpenAI API key. The optional AI mode works only when a user enters their own OpenAI API key. The key is intended to remain in the current Streamlit session state and is not intentionally written to the repository, a local `.env` file, a database, or a URL by this application. Hosting providers, reverse proxies, browser extensions, and other infrastructure remain outside the developer's control.
@@ -57,10 +61,7 @@ If the project's owner later wishes to prohibit commercial reuse of the code its
 
 ## Legal and policy documents
 
-- [DEPLOYMENT.md](DEPLOYMENT.md)
 - [DATA_FLOW.md](DATA_FLOW.md)
-- [RELEASE_CHECKLIST.md](RELEASE_CHECKLIST.md)
-
 - [LICENSE](LICENSE)
 - [NOTICE](NOTICE)
 - [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)
@@ -69,6 +70,13 @@ If the project's owner later wishes to prohibit commercial reuse of the code its
 - [PRIVACY.md](PRIVACY.md)
 - [SECURITY.md](SECURITY.md)
 - [COPYRIGHT_AND_TRADEMARK.md](COPYRIGHT_AND_TRADEMARK.md)
+
+## Maintainer documents
+
+- [DEPLOYMENT.md](DEPLOYMENT.md)
+- [RELEASE_CHECKLIST.md](RELEASE_CHECKLIST.md)
+- [CONTRIBUTING.md](CONTRIBUTING.md)
+- [CHANGELOG.md](CHANGELOG.md)
 - [CITATION.cff](CITATION.cff)
 
 ## Third-party foundations
