@@ -10,6 +10,7 @@ date-released: "2026-07-20"
 license: MIT
 repository-code: "https://github.com/H2SOour/Syllisten"
 url: "https://syllisten.streamlit.app"
+doi: "10.5281/zenodo.21451563"
 keywords:
   - language learning
   - listening practice
