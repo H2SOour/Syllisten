@@ -1,5 +1,8 @@
 # Syllisten
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://syllisten.streamlit.app)
+
+A multilingual focused-listening and dictation web app for Chinese, Japanese, English, Spanish, and French.
 Syllisten is a multilingual focused-listening and dictation web application developed by **Siyuan Liu**. It supports Chinese, Japanese, English, Spanish, and French.
 
 > **Project status:** independent, non-commercial educational prototype. The official project and public demo are provided without charge for learning, technical demonstration, and portfolio purposes. This does **not** mean that the project is a legally registered nonprofit organization, and it does not waive any applicable law, third-party license, service term, copyright, trademark, privacy, or data-protection obligation.
