@@ -59,6 +59,23 @@ The official Syllisten deployment is operated on a non-commercial basis. The sou
 
 If the project's owner later wishes to prohibit commercial reuse of the code itself, the software license must be changed prospectively; a non-profit disclaimer alone does not create that restriction.
 
+## Project scope and third-party components
+
+Syllisten is an independently developed application that integrates third-party frameworks, libraries, APIs, and online services.
+
+The application-specific design and implementation include the user interface, multilingual workflow, sentence-segmentation rules, dictation interaction, transcription comparison, pronunciation selection, accessibility themes, session behavior, and deployment configuration.
+
+Syllisten does not claim ownership or authorship of the underlying third-party technologies, including:
+
+- Streamlit, used as the web application framework;
+- the OpenAI Python SDK and OpenAI API, used only when a user selects API-assisted analysis and supplies their own API key;
+- `edge-tts`, an independent third-party package used to access Microsoft Edge's online text-to-speech service;
+- browser-provided Web Speech API functionality used as a fallback.
+
+All third-party software, services, trademarks, voices, and related technologies remain the property of their respective owners. Their inclusion does not imply affiliation, sponsorship, endorsement, or official partnership.
+
+See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) and [DISCLAIMER.md](DISCLAIMER.md) for details.
+
 ## Legal and policy documents
 
 - [DATA_FLOW.md](DATA_FLOW.md)
